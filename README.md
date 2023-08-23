@@ -11,13 +11,14 @@
 </div>
 
 # Hi there 👋, My name is Amrit Thapa
-#### Student CS at Portland State University
-I am from Nepal and I love anything tech related as well as the outdoors. 
+### Student CS at Portland State University
+#### I am from Nepal and I love anything tech related as well as the outdoors. 
 
-Skills: C++/C/PYTHON/HTML/CSS/JS
 
 - 🔭 I’m currently working on finding internships 
-- 🌱 I’m currently learning backend 
+- 🌱 I’m currently learning backend
+
+  Skills: C++/C/PYTHON/HTML/CSS/JS
 
 
 
