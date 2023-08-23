@@ -11,7 +11,7 @@
 </div>
 
 # Hi there 👋, My name is Amrit Thapa
-### Student CS at Portland State University
+### Student at Portland State University studying 💻
 #### I am from Nepal and I love anything tech related as well as the outdoors. 
 
 
