@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Amrit Thapa
+### Hi there 👋, 
+#### My name is Amrit Thapa
 #### Student CS at Portland State University
-I am from Nepal and I love anything tech related as well the outdoors. 
+I am from Nepal and I love anything tech related as well as the outdoors. 
 
 Skills: C++/C/PYTHON/HTML/CSS/JS
 
