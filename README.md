@@ -17,7 +17,6 @@
 
 
 - 🔭 I’m currently working on finding internships 
-- 🌱 I’m currently learning backend
 
   Skills: C++/C/PYTHON/HTML/CSS/JS
 
