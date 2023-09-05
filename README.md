@@ -18,8 +18,6 @@
 
 - 🔭 I’m currently working on finding internships 
 
-  Skills: C++/C/PYTHON/HTML/CSS/JS
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=realamritthapa)
 
 
