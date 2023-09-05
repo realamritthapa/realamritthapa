@@ -12,7 +12,7 @@
 
 <h1 align="center" >Hello, World!</h1>
 
-### I am student at Portland State University studying 💻
+### I am a computer Science student at Portland State University
 #### I am from Nepal and I love anything tech related as well as the outdoors. 
 
 
@@ -20,6 +20,7 @@
 
   Skills: C++/C/PYTHON/HTML/CSS/JS
 
+![GitHub Views](https://komarev.com/ghpvc/?username=realamritthapa)
 
 
 
