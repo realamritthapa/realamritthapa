@@ -18,7 +18,7 @@
 - 🌲 I am currently a computer science student at Portland State Univeristy
 - 🇳🇵 I am from Nepal
 - ⚽️ I love soccer and outdoors
-- 🔭 I’m currently working on finding internships 
+- 🔭 I’m currently working on finding work 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=realamritthapa)
 
